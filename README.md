@@ -219,6 +219,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmBoy - Gameboy Emulator Library written in Web Assembly using AssemblyScript](https://github.com/torch2424/wasmBoy)
 - [CppOpenGLWebAssemblyCMake - C++/OpenGL/OpenAL/GLFW/GLM based app built with CMake to native or WebAssembly](https://github.com/lukka/CppOpenGLWebAssemblyCMake)
 - [WebAssembly A* Pathfinding](https://github.com/jakedeichert/wasm-astar)
+- [gowebstockchart - HTML5 Interactive Stock Chart in GO, based on Canvas and Webapi (wasm in go)](https://github.com/sunraylab/gowebstockchart)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
